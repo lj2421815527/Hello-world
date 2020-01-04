@@ -1,1 +1,2 @@
 ＃-*-cding：utf-8 -*-
+request.get(url)
